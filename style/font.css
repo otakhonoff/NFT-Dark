@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Oxanium';
+    src: url(../fonts/Oxanium/static/Oxanium-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Work_Sans';
+    src: url(../fonts/Work_Sans/static/WorkSans-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Work_Sans';
+    src: url(../fonts/Work_Sans/static/WorkSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Work_Sans';
+    src: url(../fonts/Work_Sans/static/WorkSans-SemiBold.ttf);
+    font-weight: 600;
+}
